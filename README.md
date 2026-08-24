@@ -58,6 +58,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 
 ### Market Research & Intelligence
 
+- [AdMapix](https://www.admapix.com/) - AI ad creative intelligence platform for researching competitor advertising across mobile games, apps, and ecommerce
 - [Brandwatch](https://www.brandwatch.com/) - Social listening platform for brand monitoring and sentiment analysis
 - [Calven](https://calven.ai/) - Product marketing agents for competitive intelligence, win/loss, positioning, and messaging
 - [Crunchbase](https://www.crunchbase.com/) - AI-powered company and startup database with advanced search
