@@ -131,6 +131,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Breeze Prospecting Agent](https://breeze.ai/) - Full-lifecycle prospecting agent with pay-per-lead pricing
 - [Clay](https://clay.com/) - Automated prospecting with 200+ data providers and "claygents"
 - [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform
+- [Derrick](https://derrick-app.com/) - B2B enrichment agents call over MCP, plus Google Sheets and REST API
 - [Exa Websets](https://exa.ai/websets) - Agentic web search turning a plain-English ICP into verified lists
 - [Landbase](https://www.landbase.com/) - Agentic GTM platform (GTM-1 Omni) for autonomous multichannel outbound
 - [Lusha](https://www.lusha.com/) - Verified B2B contact data (300M+) with AI Flex Search and buying signals
